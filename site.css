@@ -1,0 +1,106 @@
+* {
+    margin: 0px;
+    padding: 0px;}
+*{
+    box-sizing: border-box;
+}
+body{    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #c7c7c7; }
+
+.header{
+   height: 150px; 
+   background-color:#0052DB;
+    text-align: center;
+
+}
+.tema{
+ font-size: 20px;
+ padding: 15px;
+ padding-bottom: 25px;
+ display: block;
+}
+a{
+  display: inline;
+  
+   padding: 15px;
+   text-decoration: none;
+   font-size: 30px;
+   color:#fff;
+  
+}
+a:hover{
+    background-color: #fff;
+    color:#000;
+}
+.introducao{
+    padding:15px 25px;
+     border-bottom:1px solid #000;
+}
+.container{
+    height: 450px;
+    border-bottom:1px solid #000;
+}
+.conteudo{
+    width:700px;
+    background-color: #fff;
+    margin:0 auto;
+    margin-top: 10px;
+}
+h2{
+    padding-bottom: 10px;
+}
+.h{
+   
+    padding: 30px;
+}
+.left-side{
+    width:300px;
+  
+    float: left;
+    margin: 25px;
+}
+p{
+    font-size: 20px;
+    padding: 1px;
+}
+
+img{
+    width: 300px;
+}
+.right-side {
+    float: right;
+    width: 300px;
+    margin: 25px;
+}
+.planta{
+    height: 400px;
+}
+li{
+    font-size: 25px;
+    padding: 1px;
+}
+.link{
+    color: #000;
+    text-decoration: underline;
+}
+.link:hover{
+    color:rgb(129, 2, 249);
+}
+.link:visited{
+    color: red;
+}
+fieldset{
+    border: 2px solid black;
+    padding: 20px;
+    padding-left: 30px;
+    background-color: #c7c7c7;
+}
+label{
+    padding: 10px;
+}
+button{
+   width: 100px;
+   height: 25px;
+   margin-top: 10px;
+}
